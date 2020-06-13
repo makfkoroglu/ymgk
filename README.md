@@ -1,5 +1,5 @@
-# ymgk
-Yazılım Mühendisliği Güncel Konular
+# Yazılım Mühendisliği Güncel Konular
+
 # Hava Kalitesi Analizi
 
 ## Aşama 1 - Veri Toplama
@@ -37,7 +37,6 @@ tur.cvs veri seti toplam 25722 satır ve 9 sutundan oluşmaktadır.
 
 Sayısal değerler olan verileri Not Defteri aracılığı ile sayı değerleri ondalık ayırmada kullanılan virgülü nokta ile kolon ayırıcı olarak kullanılan boşluk değeri virgül olarak değiştirildi ve txt uzantılı dosya csv olarak kaydedildi.
 
-
 Grafikler gösterilirken özellikler şehirlere göre sınıflandırıldı. Gösterilen değerler en yüksekten en düşüğe göre sıralandı.
 
 **PM10** Değerinin 2019 yılında şehirlere göre dağılımı.
@@ -70,13 +69,11 @@ Veri setinde yüksek boş değere sahip olan CO değeri olarak 2019 yılında en
 
 2019 yılında en yüksek NOX değerine sahip olan üç şehir Çorum, Kayseri ve Bursa olarak görülmektedir.
 
-
 **O3** Değerinin 2019 yılında şehirlere göre dağılımı.
 
 ![](images/6.png)
 
 2019 yılında en yüksek O3 değerine sahip olan üç şehir Hatay, Bilecik ve Isparta olarak görülmektedir.
-
 
 ## Aşama 3 - Verinin Karakteristiklerinin Analizi
 
@@ -102,8 +99,6 @@ Veri setinde yüksek boş değere sahip olan CO değeri olarak 2019 yılında en
 **fbprophet** kütüphanesi kullanılarak model kurup tahminleme yapıldı. Daha önceki aşamalarda kullanılmak istenen modellerin Keras ve Tensorflow olduğu söylendi ancak veri setinde eksik bilgi mevcut olduğu ve bu kütüphanenin güçlü yanlarından birinin de eksik verilere karşı dayanıklılığı olduğu için tercih edildi.
 
 ## Aşama 5 - Geleceğe Yönelik Veri Tahmini
-
-İlk olarak verisetimi ham olarak görselleştirdim ve bu sayede PM10 değerlerine genel bir göz atabiliyoruz.
 
 ![](images/9.jpeg)
 
