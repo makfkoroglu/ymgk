@@ -1,6 +1,6 @@
 # Yazılım Mühendisliği Güncel Konular
 
-# Hava Kalitesi Analizi
+Hava Kalitesi Analizi
 
 ## Aşama 1 - Veri Toplama
 
