@@ -5,7 +5,7 @@ Hava Kalitesi Analizi
 ## Aşama 1 - Veri Toplama
 
 #### Amaç
-Bu proje çalışmamdaki amaç tüm Türkiye'yi ve Konya ilini kapsayan bir çalışma gerçekleştirmek ve hava kalitesinin istihdam oranlarında ne gibi etkileri olduğunu tahmin etmeye çalışmak.
+Bu projedeki amaç tüm Türkiye'yi ve Konya ilini kapsayan bir çalışma gerçekleştirmek ve hava kalitesinin istihdam oranlarında ne gibi etkileri olduğunu tahmin etmeye çalışmak.
 
 #### Referans Materyaller
 
