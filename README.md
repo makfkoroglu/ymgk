@@ -2,8 +2,6 @@
 Yazılım Mühendisliği Güncel Konular
 # Hava Kalitesi Analizi
 
-YMH418 Yazılım Mühendisliği Güncel Konular dersi için yaptığım veri analizi çalışması. 
-
 ## Aşama 1 - Veri Toplama
 
 #### Amaç
