@@ -7,14 +7,14 @@ Hava Kalitesi Analizi
 #### Amaç
 Bu projedeki amaç tüm Türkiye'yi ve Konya ilini kapsayan bir çalışma gerçekleştirmek ve hava kalitesinin istihdam oranlarında ne gibi etkileri olduğunu tahmin etmeye çalışmak.
 
-#### Referans Materyaller
+#### Projede Kullanılan Kaynak ve Araçlar
 
-Veri kaynağı olarak "www.havaizleme.gov.tr" kullanılmıştır.</br>
-Proje çalışmasında **Python** dili kullanılmıştır.</br>
-Bazı hesaplamaların ve düzenlemelerin yapılabilmesi için **pandas** ve **numpy** kütüphaneleri kullanılmıştır.</br>
-Grafiklerin çizdirilebilmesi için **seaborn** ve **matplotlib** kütüphaneleri kullanılmıştır.</br>
-Tahminleme modeli olarak **fbprophet** kütüphanesi kullanılmıştır.</br>
-Bazı text düzenleme işlemleri için **Not Defteri** Kullanılmıştır.
+Veri kaynağı olarak "www.havaizleme.gov.tr" sitesinden faydalanılmıştır.</br>
+Projede **Python** dili kullanılmıştır.</br>
+Bazı hesaplamalar ve düzenlemeler için **pandas** ve **numpy** kütüphaneleri kullanılmıştır.</br>
+Grafikler için **seaborn** ve **matplotlib** kütüphaneleri kullanılmıştır.</br>
+Tahmin modeli için **fbprophet** kütüphanesi kullanılmıştır.</br>
+Veri seti düzenleme işlemleri için **Not Defteri** kullanılmıştır.
 
 #### Tanımlar Ve Kısaltmalar
 
