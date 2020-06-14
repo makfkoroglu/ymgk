@@ -39,7 +39,7 @@ Veri seti düzenleme işlemleri için **Not Defteri** kullanılmıştır.
 
 tur.cvs veri seti toplam 25722 satır ve 9 sutundan oluşmaktadır.
 
-Sayısal değerler olan verileri Not Defteri aracılığı ile sayı değerleri ondalık ayırmada kullanılan virgülü nokta ile kolon ayırıcı olarak kullanılan boşluk değeri virgül olarak değiştirildi ve txt uzantılı dosya csv olarak kaydedildi.
+Not Defteri aracılığı ile sayı değerlerini ondalık ayırmada kullanılan virgülü nokta ile, kolon ayırıcı olarak kullanılan boşluk değeri ise virgül olarak değiştirildi ve txt uzantılı dosya csv olarak kaydedildi.
 
 Grafikler gösterilirken özellikler şehirlere göre sınıflandırıldı. Gösterilen değerler en yüksekten en düşüğe göre sıralandı.
 
