@@ -17,7 +17,7 @@ Grafikler için **seaborn** ve **matplotlib** kütüphaneleri kullanılmıştır
 Tahmin modeli için **fbprophet** kütüphanesi kullanılmıştır.</br>
 Veri seti düzenleme işlemleri için **Not Defteri** kullanılmıştır.
 
-#### Tanımlar Ve Kısaltmalar
+#### Projede Kullanılan Dosyalar ve Kısaltmalar
 
 **tur.csv**: İçerisinde 2019 yılında Türkiye'nin bütün illerine ait günlük olarak hava verilerinin bulunduğu veri seti.</br>
 **konya.csv**: İçerisinde Konya iline ait 2019 yılında PM10 değerinin günlük olarak bulunduğu veri seti.</br>
