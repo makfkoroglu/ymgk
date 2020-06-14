@@ -127,3 +127,18 @@ Aşağıdaki grafiklerde 2018 ve 2019 yıllarına ait TUİK Temel İşgücü ver
 
 ![](images/2018.png)
 
+2018 yılına ait İstihdam Grafiği(Bin kişi)
+
+
+![](images/20182.png)
+
+2019 yılına ait İş Gücü Grafiği(Bin kişi)
+
+
+![](images/2019.png)
+
+2019 yılına ait İstihdam Grafiği(Bin kişi)
+
+
+![](images/20192.png)
+
