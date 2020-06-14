@@ -10,7 +10,7 @@ Bu projedeki amaç tüm Türkiye'yi ve Konya ilini kapsayan bir çalışma gerç
 #### Projede Kullanılan Kaynak ve Araçlar
 
 Veri kaynağı olarak "www.havaizleme.gov.tr" sitesinden faydalanılmıştır.</br>
-İstihdam verileri için www.tuik.gov.tr adresinden faydalanılmıştır.
+İstihdam verileri için www.tuik.gov.tr adresinden faydalanılmıştır.</br>
 Projede **Python** dili kullanılmıştır.</br>
 Bazı hesaplamalar ve düzenlemeler için **pandas** ve **numpy** kütüphaneleri kullanılmıştır.</br>
 Grafikler için **seaborn** ve **matplotlib** kütüphaneleri kullanılmıştır.</br>
