@@ -118,3 +118,12 @@ Diğer grafikte ise tahmin verilerine ait değerler, yıllık ve günlük olarak
 
 İkinci grafiğe(weekly) baktığımızda PM10 değerinin haftanın hangi günlerinde artış ve azalış gösterdiğini görebiliyoruz. Pazar günleri artmaya başlayan değer Pazartesi gününe kadar zirve noktasını görüyor. Salı günü düşüş olsada haftanın ortasında tepe noktasına ulaşıyor. Cuma günü en dip noktayı gören PM10 Cumartesi en yüksek olduğu noktaya ulaşıyor. Bu artışın sebebi yine Konya şehrinde bulunan ve haftasonları da üretim yapma ihtimali olan Şeker Fabrikası olabilir.
 
+## İstihdam ve İş Gücü Bilgileri
+
+Aşağıdaki grafiklerde 2018 ve 2019 yıllarına ait TUİK Temel İşgücü verileri kullanılmıştır. Türkiye genelinde aylık olarak istihdam ve iş gücü sayıları aylık olarak tutulmuştur.
+
+2018 yılına ait İş Gücü Grafiği(Bin kişi)
+
+
+![](images/2018.png)
+
