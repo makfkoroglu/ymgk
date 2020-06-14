@@ -142,3 +142,7 @@ Aşağıdaki grafiklerde 2018 ve 2019 yıllarına ait TUİK Temel İşgücü ver
 
 ![](images/20192.png)
 
+## Sonuç
+
+2019 yılı hava kalitesi verilerine bakıldığı zaman istihtam oranları ile ters orantılı olduğu sonucuna varabiliriz. Çünkü istihtam sayısı azaldıkça hava kalitesi artış göstermektedir. İstihtam sayısı arttıkça da hava kalitesi azalma eyilimindedir. TUİK verileri çok fazla detay içermediği için il bazında gerekli çıkarımlar ve tahminler gerçekleştirilememiştir.
+
