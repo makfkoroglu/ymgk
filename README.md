@@ -1,4 +1,4 @@
-# Yazılım Mühendisliği Güncel Konular
+# Yazılım Mühendisliğinde Güncel Konular
 
 Hava Kalitesi Analizi
 
