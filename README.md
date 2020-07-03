@@ -37,7 +37,7 @@ Veri seti düzenleme işlemleri için **Not Defteri** kullanılmıştır.
 
 ## Aşama 2 - Verinin Görselleştirilmesi ve Sunumu
 
-tur.cvs veri seti toplam 25722 satır ve 9 sutundan oluşmaktadır.
+tur.csv veri seti toplam 25722 satır ve 9 sutundan oluşmaktadır.
 
 Not Defteri aracılığı ile sayı değerlerini ondalık ayırmada kullanılan virgülü nokta ile, kolon ayırıcı olarak kullanılan boşluk değeri ise virgül olarak değiştirildi ve txt uzantılı dosya csv olarak kaydedildi.
 
