@@ -24,8 +24,8 @@ Veri seti düzenleme işlemleri için **Not Defteri** kullanılmıştır.
 **hava.py**: Türkiye'nin hava kalitesinin incelendiği ve gerekli grafiklerin oluşturulduğu python dosyası.</br>
 **fbprophet.py**: Konya iline ait 2020 yılı için geleceğe yönelik veri tahmininde bulunan python dosyası.</br>
 **istihtam.py**: 2018 ve 2019 yıllarına ait istihtam bilgilerini grafikleştirmek için kullanılan python dosyası.</br>
-**2018.py**: 2018 yılına ait TUİK Temel İşgücü verilerinin bulunduğu csv dosyası.</br>
-**2019.py**: 2019 yılına ait TUİK Temel İşgücü verilerinin bulunduğu csv dosyası.</br>
+**2018.csv**: 2018 yılına ait TUİK Temel İşgücü verilerinin bulunduğu csv dosyası.</br>
+**2019.csv**: 2019 yılına ait TUİK Temel İşgücü verilerinin bulunduğu csv dosyası.</br>
 
 **PM10** : Çapı 10 mikrometreden küçük maddeler.</br>
 **SO2** : Kükürt Dioksit Gazı</br>
