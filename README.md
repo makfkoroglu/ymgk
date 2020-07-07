@@ -116,7 +116,7 @@ Görselde bulunan noktalar değişim(change point) zamanlarıdır. Bu değerler 
 
 Diğer grafikte ise tahmin verilerine ait değerler, yıllık ve günlük olarak eğilimlerin sonuçlarını göstermektedir.
 
-![](media/11.jpeg)
+![](images/11.jpeg)
 
 İlk grafiğe bakıldığında değerlerin 2019 yılının başlarından itibaren bir artış gösterdiği ve son aylarda zirveye ulaştığı söylenebilir.
 
